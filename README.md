@@ -1,8 +1,3 @@
-<p align="center">
-	<a href="https://github.com/luamoris">
-		<img width="200" src="https://cutt.ly/U72fY1a" alt="Logo"/>
-	</a>
-</p>
 <h3 align="center"><strong>LUAMORIS</strong></h3>
 <p align="center">
 	<a href="https://luamoris.com">luamoris.com</a>
